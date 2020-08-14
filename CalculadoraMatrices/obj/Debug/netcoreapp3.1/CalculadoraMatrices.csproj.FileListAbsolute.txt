@@ -1,0 +1,13 @@
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\bin\Debug\netcoreapp3.1\CalculadoraMatrices.exe
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\bin\Debug\netcoreapp3.1\CalculadoraMatrices.deps.json
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\bin\Debug\netcoreapp3.1\CalculadoraMatrices.runtimeconfig.json
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\bin\Debug\netcoreapp3.1\CalculadoraMatrices.runtimeconfig.dev.json
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\bin\Debug\netcoreapp3.1\CalculadoraMatrices.dll
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\bin\Debug\netcoreapp3.1\CalculadoraMatrices.pdb
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.csprojAssemblyReference.cache
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.AssemblyInfoInputs.cache
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.AssemblyInfo.cs
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.csproj.CoreCompileInputs.cache
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.dll
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.pdb
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.genruntimeconfig.cache

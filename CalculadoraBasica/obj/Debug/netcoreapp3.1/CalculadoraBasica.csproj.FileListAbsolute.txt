@@ -1,0 +1,13 @@
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\bin\Debug\netcoreapp3.1\CalculadoraBasica.exe
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\bin\Debug\netcoreapp3.1\CalculadoraBasica.deps.json
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\bin\Debug\netcoreapp3.1\CalculadoraBasica.runtimeconfig.json
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\bin\Debug\netcoreapp3.1\CalculadoraBasica.runtimeconfig.dev.json
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\bin\Debug\netcoreapp3.1\CalculadoraBasica.dll
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\bin\Debug\netcoreapp3.1\CalculadoraBasica.pdb
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\obj\Debug\netcoreapp3.1\CalculadoraBasica.csprojAssemblyReference.cache
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\obj\Debug\netcoreapp3.1\CalculadoraBasica.AssemblyInfoInputs.cache
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\obj\Debug\netcoreapp3.1\CalculadoraBasica.AssemblyInfo.cs
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\obj\Debug\netcoreapp3.1\CalculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\obj\Debug\netcoreapp3.1\CalculadoraBasica.dll
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\obj\Debug\netcoreapp3.1\CalculadoraBasica.pdb
+C:\Users\gibra\OneDrive\Documentos\Gorky\TiendaVS.Negocio\CalculadoraBasica1\obj\Debug\netcoreapp3.1\CalculadoraBasica.genruntimeconfig.cache
